@@ -1,0 +1,21 @@
+.rules/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/vendor/
+/dist/
+
+# System
+.DS_Store
+Thumbs.db
